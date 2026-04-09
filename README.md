@@ -1,11 +1,18 @@
-# Sample Snack app
+# TikTok UI Screens Project
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Thông tin sinh viên
+- Họ và tên: Nguyễn Thị Khánh Linh
+- MSSV: 23810310394
+- Lớp: D18CNPM5
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Mô tả
+Project clone giao diện TikTok với các tính năng:
+- **Top Tabs:** Following / For You
+- **Bottom Tabs:** Home, Discover, Add, Inbox (Comment), Profile
+- Like, Comment, Share, Music Animation
+- Comment screen với danh sách comment và input
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Ảnh màn hình
+![fowwing](https://github.com/user-attachments/assets/f502329f-4cbc-4181-a360-039bc5c51a51)
+![foryou](https://github.com/user-attachments/assets/e5a0d0aa-36eb-4c65-a105-b750ed04c02f)
+![comments](https://github.com/user-attachments/assets/206ab720-d1ae-48ea-a406-9233dc64acb7)
